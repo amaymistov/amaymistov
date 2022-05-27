@@ -17,6 +17,7 @@
 <li>Имеются навыки адаптивной верстки;</li>
 <li>Имеется небольшой опыт работы с Vue.js;</li>
 <li>Знаю основы TypeScript (особенности, преимущества и т.д.);</li>
+<li>Знаком с Jest, React Testing Library, e2e, screenshot;</li>
 </ul>
 <hr>
 <h3 align="left">Languages and Tools:</h3>

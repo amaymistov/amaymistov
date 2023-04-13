@@ -2,22 +2,20 @@
 ### I am a Front-End developer
 <hr>
 <p>Я frontend разработчик, в поисках сплоченной команды и профессионального роста</p>
+<p>Имею опыт и знания</p>
 <ul>
-<li>Отлично знаю JavaScript.</li>
-<li>Много времени уделяю изучению React, Redux, Redux Saga, React hooks.</li>
-<li>Понимаю, как устроен JS, знаю самые важные основы языка;</li>
-<li>Читаю техническую документацию и понимаю описанные алгоритмы;</li>
-<li>Понимаю, зачем нужны фреймворки, как ими пользоваться для работы;</li>
-<li>Умею создавать в React визуальную составляющую;</li>
-<li>Знаю основные хуки React, пользуюсь функциональными компонентами React;</li>
-<li>Умею создавать страницы, которые загружаются динамично;</li>
-<li>Умею работать с REST API и WebSocket;</li>
-<li>Умею деплоить приложение на хостинг для удалённой работы;</li>
-<li>Понимаю, что такое Git и умею работать с ним;</li>
-<li>Имеются навыки адаптивной верстки;</li>
-<li>Имеется небольшой опыт работы с Vue.js;</li>
-<li>Знаю основы TypeScript (особенности, преимущества и т.д.);</li>
-<li>Знаком с Jest, React Testing Library, e2e, screenshot;</li>
+  <li>JavaScript (ES6+) / ReactJS / TypeScript</li>
+<li>Redux Toolkit / Redux / React Query / RTK Query / React Hook Form / NextJS</li>
+<li>SCSS / styled-components / CSS Modules</li>
+<li>Material UI / Twitter Bootstrap / Tailwind CSS</li>
+<li>Webpack / Gulp</li>
+<li>ESLint / Prettier</li>
+<hr>
+<li>Git / GitHub / GitLab</li>
+<li>Docker</li>
+<li>BEM (CSS)</li>
+<li>JSON</li>
+<li>Trello, bitrix24</li>
 </ul>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
